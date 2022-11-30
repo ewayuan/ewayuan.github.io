@@ -17,7 +17,7 @@ Education
 
 *Jan 2020 -- April 2023 (expected)*
   
-  **Master of Science, Computer Science**, supervised by [Prof. Aijun An](http://www.cse.yorku.ca/~aan/)*
+  **Master of Science, Computer Science**, supervised by [Prof. Aijun An](http://www.cse.yorku.ca/~aan/)
 
 ### University of Waterloo
 
