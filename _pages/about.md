@@ -28,8 +28,7 @@ Education
 
 Publications
 ------
-<font size=9>(* represents equal contribution) <\font>
-
+<font size=10>(* represents equal contribution)</font>
 
 **Topic-Aware Response Selection in the Persona-based Dialogue System**
 
