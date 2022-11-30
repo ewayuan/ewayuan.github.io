@@ -23,7 +23,7 @@ Education
 
 *Sep. 2015 -- April 2020*
 
-  **Bachelor of Science, Data Scien**
+  **Bachelor of Science, Data Science**
 
 
 Publications
