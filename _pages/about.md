@@ -21,7 +21,7 @@ Education
 ### University of Waterloo
   *Sep. 2015 -- April 2020*
 
-  ***Bachelor of Science, Data Science***
+  ***Bachelor of Mathematics, Data Science, Honours***
 
 
 Publications
