@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,13 +17,13 @@ Education
 
 *Jan 2020 -- April 2023 (expected)*
 
-***M.S. in Computer Science**, supervised by [Prof. Aijun An](http://www.cse.yorku.ca/~aan/)*
+**Master of Science, Computer Scien**, supervised by [Prof. Aijun An](http://www.cse.yorku.ca/~aan/)*
 
 ### University of Waterloo
 
 *Sep. 2015 -- April 2020*
 
-***B.S. in Data Science**
+**Bachelor of Science, Data Scien**
 
 
 Publications
@@ -42,3 +42,15 @@ ICASSP 2023 Submission
 **Wei Yuan**, Martin Dimkovski, and Aijun An. 
 
 WWW 2023 Industry Submission
+
+
+Research Experience
+------
++ **York University**, Research Assistant, Toronto, Canada, Oct 2021 - Present
++ **ntact Financial Corporation**, Research Developer Intern, Toronto, Canada, Jun 2021 - Oct 2021
+
+Teaching Experience
+------
+- EECS 2031 Software Tools (Winter 2021, Spring 2021, Fall 2021, Winter 2022, Spring, and Fall 2022)
+- EECS 1520 Computer Use: Fundamentals (Winter 2022)
+- EECS 1012 Introduction to Computing (a Net-centric Approach: Fall 2022)
