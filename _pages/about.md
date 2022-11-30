@@ -16,14 +16,14 @@ Education
 ### York University
 
 *Jan 2020 -- April 2023 (expected)*
-
-**Master of Science, Computer Scien**, supervised by [Prof. Aijun An](http://www.cse.yorku.ca/~aan/)*
+  
+  **Master of Science, Computer Scien**, supervised by [Prof. Aijun An](http://www.cse.yorku.ca/~aan/)*
 
 ### University of Waterloo
 
 *Sep. 2015 -- April 2020*
 
-**Bachelor of Science, Data Scien**
+  **Bachelor of Science, Data Scien**
 
 
 Publications
