@@ -51,6 +51,7 @@ Research Experience
 
 Teaching Experience
 ------
-- EECS 2031 Software Tools (Winter 2021, Spring 2021, Fall 2021, Winter 2022, Spring, and Fall 2022)
-- EECS 1520 Computer Use: Fundamentals (Winter 2022)
-- EECS 1012 Introduction to Computing (a Net-centric Approach: Fall 2022)
+### York University
+  - EECS 2031 Software Tools (Winter 2021, Spring 2021, Fall 2021, Winter 2022, Spring, and Fall 2022)
+  - EECS 1520 Computer Use: Fundamentals (Winter 2022)
+  - EECS 1012 Introduction to Computing (a Net-centric Approach: Fall 2022)
