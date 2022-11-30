@@ -41,7 +41,7 @@ ICASSP 2023 Submission
 
 **Wei Yuan**, Martin Dimkovski, and Aijun An. 
 
-WWW 2023 Industry Submission
+WWW 2023 Industry Track Submission
 
 
 Research Experience
