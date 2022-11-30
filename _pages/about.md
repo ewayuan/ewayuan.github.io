@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 # <i class="fa fa-cog fa-spin fa-fw"></i> About me #
-I’m **Wei Yuan**, a Master's student at York University, under the supervision of [Prof. Aijun An](http://www.cse.yorku.ca/~aan/). Before that, I received B.S. degree from University of Waterloo in 2020. My research interests lie in Natural Language Processing and Information Retrieval, specially in Dialogue Systems, Recommender Systems, and Conversational Recommender Systems etc.
+I’m **Wei Yuan**, a Master's student at York University, under the supervision of [Prof. Aijun An](http://www.cse.yorku.ca/~aan/). Before that, I received B.S. degree from University of Waterloo in 2020. My research interests lie in Natural Language Processing and Information Retrieval, especially in Dialogue Systems, Recommender Systems, and Conversational Recommender Systems etc.
 
 Education
 ------
