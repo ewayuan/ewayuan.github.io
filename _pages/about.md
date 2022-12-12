@@ -45,7 +45,7 @@ WWW 2023 Industry Track Submission
 
 Research Experience
 ------
-+ **York University**, Research Assistant, Toronto, Canada, Oct 2021 - Present
++ **York University**, Research Assistant, Toronto, Canada, Jan 2021 - Present
 + **Intact Financial Corporation**, Research Developer Intern, Toronto, Canada, Jun 2021 - Oct 2021
 
 Teaching Experience
