@@ -30,17 +30,18 @@ Publications
 ------
 (* represents equal contribution)
 
+[Updated]**Contrastive Fine-tuning on Few Shot Intent Detection With Topological Intent Tree**
+
+**Wei Yuan**, Martin Dimkovski, and Aijun An. 
+
+WWW 2023: Proceedings of The ACM Web Conference 2023.
+
 **Topic-Aware Response Selection in the Persona-based Dialogue System**
 
 **Wei Yuan**\*, Zongyang Ma\*, Aijun An, and Jimmy Xiangji Huang
 
 ICASSP 2023 Submission
 
-**Contrastive Fine-tuning on Few Shot Intent Detection With Topological Intent Tree**
-
-**Wei Yuan**, Martin Dimkovski, and Aijun An. 
-
-WWW 2023 Industry Track Submission
 
 
 Research Experience
