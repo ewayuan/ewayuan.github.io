@@ -30,11 +30,11 @@ Publications
 ------
 (* represents equal contribution)
 
-[Updated]**Contrastive Fine-tuning on Few Shot Intent Detection With Topological Intent Tree**
+[Updated] **Contrastive Fine-tuning on Few Shot Intent Detection With Topological Intent Tree**
 
 **Wei Yuan**, Martin Dimkovski, and Aijun An. 
 
-WWW 2023: Proceedings of The ACM Web Conference 2023.
+WWW 2023: Proceedings of The ACM Web Conference 2023 [accepted rate: 19.8%]. 
 
 **Topic-Aware Response Selection in the Persona-based Dialogue System**
 
